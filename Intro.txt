@@ -1,0 +1,56 @@
+Solve the problems based on the dataset given below:
+
+For data In Stock:
+
+1. Which are the top Manufacturers with price, quantity?
+
+2. Which are the most profitable products?
+
+3. Which is the product where you have seen a decrease in the price?
+
+4. Which is the product where you have seen an increase in the price?
+
+5. Which is the top category by price and quantity?
+
+6. Which products are aging?
+
+7. How to Decrease Product aging?
+
+For Data Not in Stock:
+
+1. Which are the top Manufacturers with price, quantity?
+
+2. Which are the most profitable products?
+
+3. Which is the product where you have seen a decrease in the price?
+
+4. Which is the product where you have seen an increase in the price?
+
+5. Which is the top category by price and quantity?
+
+Dataset description:
+What is an IMU?
+
+An inertial measurement unit (IMU) measures and reports raw or filtered angular rate and specific force/acceleration experienced by the object it is attached to. Data outputs for an IMU are typically body-frame accelerations, angular rates, and (optionally) magnetic field measurements.
+
+The columns of the dataset are:
+
+1. Category: The category to which this IMU belongs.
+
+2. Manufacturer: Name of the manufacturer.
+
+3. part number: Discrete part number
+
+4. sku: stock keeping unit
+
+5. alt_sku: alternate stock keeping unit
+
+6. Description: description of the product
+
+7. Status: Whether it is in stock or not
+
+8. Quantity: Quantity available
+
+9. Price: Price of the product
+
+10. sku_create_date: when was the product procured
